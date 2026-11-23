@@ -1,16 +1,16 @@
-## 피드백 남기는 곳
+# 피드백 남기는 곳
 
-# 우유정
+## 우유정
 Titanic
 Iris
 Wine
 
-# 이도연
+## 이도연
 Titanic
 Iris
 Wine
 
-# 이충희
+## 이충희
 Titanic
 Iris
 Wine
