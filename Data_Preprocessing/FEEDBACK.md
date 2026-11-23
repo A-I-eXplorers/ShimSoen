@@ -10,9 +10,13 @@ Wine
 ## 이도연
 Titanic
 
-Iris
+연령대별 생존 평균을 시각화하여 가시적으로 분석 가능했음
 
-Wine
+주석: 중복 의미 칼럼과 embarked, deck은 처리하지 않은 것으로 보임.
+
+Iris -
+
+Wine -
 
 ## 이충희
 Titanic
